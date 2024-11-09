@@ -1,0 +1,4 @@
+What social changes took place in the United States after World War II? What role did the war play in those changes? What do you believe were the most important changes to occur?
+
+
+After World War II, there were several social changes that took place, such as suburbanization of cities through the implementation of Levittowns, the release of Japanese from the internment camps which resulted in Japanese discrimination, the rise of anti-communist sentiment due to Cold War propaganda released by the federal government which caused several social changes, the GI Bill which encouraged honorably discharged veterans returning home to pursue an education
