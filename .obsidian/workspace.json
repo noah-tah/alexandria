@@ -1,124 +1,28 @@
 {
   "main": {
-    "id": "c360b8820ff9033f",
+    "id": "e800fc0ef2000f5e",
     "type": "split",
     "children": [
       {
-        "id": "1bc55d3ee2a66f73",
+        "id": "da964a8cebae8490",
         "type": "tabs",
         "children": [
           {
-            "id": "ab31be67115edc88",
+            "id": "eb4234a5bce17375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "winsock-server.md",
+                "file": "2024-11-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "winsock-server"
+              "title": "2024-11-09"
             }
           },
           {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-            "id": "ec3da9494f43faec",
-=======
-            "id": "03a7aa18c0f284de",
->>>>>>> Stashed changes
-=======
-            "id": "03a7aa18c0f284de",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "Untitled.md",
-=======
-                "file": "winsock-accept.md",
->>>>>>> Stashed changes
-=======
-                "file": "winsock-accept.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-              "title": "Untitled"
-=======
-              "title": "winsock-accept"
->>>>>>> Stashed changes
-=======
-              "title": "winsock-accept"
->>>>>>> Stashed changes
-            }
-          },
-          {
-            "id": "22e27613cda7991c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Heros-Journey.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Heros-Journey"
-            }
-          },
-          {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-            "id": "7c1b4bce8937d4ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "School"
-            }
-          },
-          {
-            "id": "6aa2249a7548f7e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "american-history.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "american-history"
-            }
-          },
-          {
-            "id": "07e48de05522aa0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapter-28.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chapter-28"
-            }
-          },
-          {
-            "id": "4789847e55e3403c",
+            "id": "24df333cdee49a84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,151 +36,49 @@
             }
           },
           {
-            "id": "2414d4a2b1c5ab61",
-=======
-            "id": "236c3e888022ec5b",
->>>>>>> Stashed changes
-=======
-            "id": "236c3e888022ec5b",
->>>>>>> Stashed changes
+            "id": "f0335836b213a69c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects.md",
+                "file": "chapter-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "chapter-28"
             }
           },
           {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-            "id": "bf40f865a2fdc010",
-=======
-            "id": "302d89f10d6470bf",
->>>>>>> Stashed changes
-=======
-            "id": "302d89f10d6470bf",
->>>>>>> Stashed changes
+            "id": "2094f384bf476b16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "winsock-server.md",
+                "file": "William Levitt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "winsock-server"
-            }
-          },
-          {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-            "id": "5359387bdde5f764",
-=======
-            "id": "01c4bfd69ee42818",
->>>>>>> Stashed changes
-=======
-            "id": "01c4bfd69ee42818",
->>>>>>> Stashed changes
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-                "file": "powershell-setup.md",
-=======
-                "file": "displaying-stuff-in-browser.md",
->>>>>>> Stashed changes
-=======
-                "file": "displaying-stuff-in-browser.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-              "title": "powershell-setup"
-=======
-              "title": "displaying-stuff-in-browser"
->>>>>>> Stashed changes
-=======
-              "title": "displaying-stuff-in-browser"
->>>>>>> Stashed changes
-            }
-          },
-          {
-            "id": "df38de0c3a4134f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "School"
-            }
-          },
-          {
-            "id": "c6bcf0e4cca5afe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ancient-world-history.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ancient-world-history"
-            }
-          },
-          {
-            "id": "d029cd7444c89c9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documentary-review.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "documentary-review"
+              "title": "William Levitt"
             }
           }
         ],
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        "currentTab": 6
-=======
-        "currentTab": 4
->>>>>>> Stashed changes
-=======
-        "currentTab": 4
->>>>>>> Stashed changes
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e5eef54862dd0849",
+    "id": "5e22e08181b48677",
     "type": "split",
     "children": [
       {
-        "id": "393852cd20b9958e",
+        "id": "bea150a9e1948c19",
         "type": "tabs",
         "children": [
           {
-            "id": "73937a00f47ce373",
+            "id": "04aac39dcff91773",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -288,7 +90,7 @@
             }
           },
           {
-            "id": "6fcbcc03861cbb42",
+            "id": "18a9acdab5ef7bc7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -305,7 +107,7 @@
             }
           },
           {
-            "id": "ac80b4618837361d",
+            "id": "bdf550576fba49fb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -314,28 +116,29 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 204.5,
     "collapsed": true
   },
   "right": {
-    "id": "63727251f989e3ab",
+    "id": "6d6198dcb34570aa",
     "type": "split",
     "children": [
       {
-        "id": "f6fe6b1c877c94f2",
+        "id": "3822f4e6e7a88bf8",
         "type": "tabs",
         "children": [
           {
-            "id": "1f3108a84839f38b",
+            "id": "17c79ab111b4c3fe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "chapter-28-db.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -345,25 +148,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for chapter-28-db"
             }
           },
           {
-            "id": "7630ebe9047885b2",
+            "id": "6d59b454cf1a3703",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "chapter-28-db.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from chapter-28-db"
             }
           },
           {
-            "id": "431e91fbaee813f2",
+            "id": "75e53ae7f0068ac4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -376,15 +179,15 @@
             }
           },
           {
-            "id": "5a7d70a03adbb6fe",
+            "id": "9c9c159f1f17ffe8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "chapter-28-db.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of chapter-28-db"
             }
           }
         ]
@@ -401,58 +204,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "homepage:Open homepage": false
     }
   },
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "active": "4789847e55e3403c",
+  "active": "24df333cdee49a84",
   "lastOpenFiles": [
+    "William Levitt.md",
     "chapter-28.md",
     "chapter-28-db.md",
+    "2024-11-09.md",
     "american-history.md",
     "School.md",
     "Heros-Journey.md",
-    "winsock-server.md",
-    "powershell-setup.md",
-    "winsock-server-article.md",
-    "Projects.md",
-    "Untitled.md",
-    "winsock-accept.md",
-    "documentary-review.md",
-    "ancient-world-history.md",
-    "Untitled 1.md",
-    "README.md",
-=======
-  "active": "302d89f10d6470bf",
-  "lastOpenFiles": [
-    "Projects.md",
-    "displaying-stuff-in-browser.md",
-    "winsock-server.md",
-    "server-thread.md",
-    "Heros-Journey.md",
-=======
-  "active": "302d89f10d6470bf",
-  "lastOpenFiles": [
-    "Projects.md",
-    "displaying-stuff-in-browser.md",
-    "winsock-server.md",
-    "server-thread.md",
-    "Heros-Journey.md",
->>>>>>> Stashed changes
-    "winsock-accept.md",
-    "Untitled.md",
-    "README.md",
-    "ancient-world-history.md",
-    "School.md",
-    "documentary-review.md",
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-    "dissent.md",
     "servers-and-clients.md",
-    "content-plan.md",
-    "New folder"
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled"
   ]
 }
