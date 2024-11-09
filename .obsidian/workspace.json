@@ -22,17 +22,41 @@
             }
           },
           {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "id": "ec3da9494f43faec",
+=======
+            "id": "03a7aa18c0f284de",
+>>>>>>> Stashed changes
+=======
+            "id": "03a7aa18c0f284de",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Untitled.md",
+=======
+                "file": "winsock-accept.md",
+>>>>>>> Stashed changes
+=======
+                "file": "winsock-accept.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "title": "Untitled"
+=======
+              "title": "winsock-accept"
+>>>>>>> Stashed changes
+=======
+              "title": "winsock-accept"
+>>>>>>> Stashed changes
             }
           },
           {
@@ -50,6 +74,8 @@
             }
           },
           {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "id": "7c1b4bce8937d4ed",
             "type": "leaf",
             "state": {
@@ -107,6 +133,12 @@
           },
           {
             "id": "2414d4a2b1c5ab61",
+=======
+            "id": "236c3e888022ec5b",
+>>>>>>> Stashed changes
+=======
+            "id": "236c3e888022ec5b",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,7 +152,15 @@
             }
           },
           {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "id": "bf40f865a2fdc010",
+=======
+            "id": "302d89f10d6470bf",
+>>>>>>> Stashed changes
+=======
+            "id": "302d89f10d6470bf",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,17 +174,41 @@
             }
           },
           {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
             "id": "5359387bdde5f764",
+=======
+            "id": "01c4bfd69ee42818",
+>>>>>>> Stashed changes
+=======
+            "id": "01c4bfd69ee42818",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "powershell-setup.md",
+=======
+                "file": "displaying-stuff-in-browser.md",
+>>>>>>> Stashed changes
+=======
+                "file": "displaying-stuff-in-browser.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "title": "powershell-setup"
+=======
+              "title": "displaying-stuff-in-browser"
+>>>>>>> Stashed changes
+=======
+              "title": "displaying-stuff-in-browser"
+>>>>>>> Stashed changes
             }
           },
           {
@@ -190,7 +254,15 @@
             }
           }
         ],
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "currentTab": 6
+=======
+        "currentTab": 4
+>>>>>>> Stashed changes
+=======
+        "currentTab": 4
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -332,6 +404,8 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "active": "4789847e55e3403c",
   "lastOpenFiles": [
     "chapter-28.md",
@@ -349,6 +423,33 @@
     "ancient-world-history.md",
     "Untitled 1.md",
     "README.md",
+=======
+  "active": "302d89f10d6470bf",
+  "lastOpenFiles": [
+    "Projects.md",
+    "displaying-stuff-in-browser.md",
+    "winsock-server.md",
+    "server-thread.md",
+    "Heros-Journey.md",
+=======
+  "active": "302d89f10d6470bf",
+  "lastOpenFiles": [
+    "Projects.md",
+    "displaying-stuff-in-browser.md",
+    "winsock-server.md",
+    "server-thread.md",
+    "Heros-Journey.md",
+>>>>>>> Stashed changes
+    "winsock-accept.md",
+    "Untitled.md",
+    "README.md",
+    "ancient-world-history.md",
+    "School.md",
+    "documentary-review.md",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     "dissent.md",
     "servers-and-clients.md",
     "content-plan.md",
