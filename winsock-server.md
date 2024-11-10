@@ -1,3 +1,5 @@
+[[winsock-api]]
+[[plan]]
 [[content-plan]]
 [[winsock-server-article]]
 [[servers-and-clients]]
