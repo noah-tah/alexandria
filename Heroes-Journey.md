@@ -1,4 +1,4 @@
-# Welcome Traveler!
+# Greetings Traveler!
 ---
 [[projects]]
 [[school]]
