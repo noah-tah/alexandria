@@ -1,0 +1,1 @@
+Al-Andalus was the Muslim-ruled area of the Iberian Peninsula. The name describes the different Muslim states that controlled these territories at various times between 711 and 1492. At its greatest geographical extent, it occupied most of the peninsula as well as the Septimania under Umayyad rule

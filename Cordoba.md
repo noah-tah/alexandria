@@ -1,0 +1,13 @@
+Cordoba, city, capital of Cordoba provincia (province).
+
+In north central section of the comunidad autonoma (autonomous community) of Andalusia in southern Spain.
+
+It lies at the southern foot of the Morena Mountains and on the right(north) bank of the Guadalquivir River, about 80 miles (130 km) northeast of Sevilla
+
+Córdoba was probably [Carthaginian](https://www.britannica.com/place/Carthage-ancient-city-Tunisia) in origin and was occupied by the Romans in 152 bce. The city [flourished](https://www.britannica.com/dictionary/flourished) under their rule, though 20,000 of its inhabitants were massacred in 45 bce by Julius Caesar for having supported the sons of Pompey. Under Augustus, the city became the capital of the prosperous Roman province of Baetica. It declined under the rule of the Visigoths from the 6th to the early 8th century ce.
+
+[![Córdoba, Spain](https://cdn.britannica.com/39/241439-050-BB5B292D/Locator-map-Cordoba.jpg?w=300)](https://cdn.britannica.com/39/241439-050-BB5B292D/Locator-map-Cordoba.jpg)
+
+[Córdoba, Spain](https://cdn.britannica.com/39/241439-050-BB5B292D/Locator-map-Cordoba.jpg)
+
+In 711 Córdoba was captured and largely destroyed by the Muslims. Its recovery was impeded by tribal rivalries until [ʿAbd al-Raḥmān I](https://www.britannica.com/biography/Abd-al-Rahman-I), a member of the [Umayyad](https://www.britannica.com/topic/Umayyad-dynasty-Islamic-history) family, accepted the leadership of the Spanish Muslims and made Córdoba his capital in 756. ʿAbd al-Raḥmān I founded the [Great Mosque of Córdoba](https://www.britannica.com/topic/Mosque-Cathedral-of-Cordoba), which was enlarged by his successors and completed about 976 by [Abū ʿĀmir al-Manṣūr](https://www.britannica.com/biography/Abu-Amir-al-Mansur). Though troubled by occasional revolt, Córdoba grew rapidly under Umayyad rule; and after [ʿAbd al-Raḥmān III](https://www.britannica.com/biography/Abd-al-Rahman-III) proclaimed himself caliph of the West in 929, it became the largest and probably the most [cultured](https://www.merriam-webster.com/dictionary/cultured) city in Europe, with a population of some 100,000 in 1000. Under Umayyad rule, Córdoba was enlarged and filled with palaces and mosques. The city’s woven silks and elaborate brocades, leatherwork, and jewelry were prized throughout Europe and the East, and its copyists rivaled Christian monks in the production of religious works. When the caliphate was dismembered by civil war early in the 11th century, Córdoba became the centre of a contest for power among the petty Muslim kingdoms of Spain. It fell to the Castilian king [Ferdinand III](https://www.britannica.com/biography/Ferdinand-III-king-of-Castile-and-Leon) in 1236 and became part of Christian Spain.

@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "e800fc0ef2000f5e",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "da964a8cebae8490",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "eb4234a5bce17375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-11-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-09"
-            }
-          },
-          {
-            "id": "41d832cdb3706df9",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,51 +20,8 @@
               "icon": "lucide-file",
               "title": "Heros-Journey"
             }
-          },
-          {
-            "id": "d433e934f0549304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "School"
-            }
-          },
-          {
-            "id": "7481838ea9cc7ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ancient-world-history.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ancient-world-history"
-            }
-          },
-          {
-            "id": "1718827fd069e809",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chapter-13-worksheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chapter-13-worksheet"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,13 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 204.5,
-    "collapsed": true
+    "width": 204.5
   },
   "right": {
     "id": "6d6198dcb34570aa",
@@ -223,15 +164,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1718827fd069e809",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ancient-world-history.md",
     "chapter-13-worksheet.md",
+    "wegild.md",
+    "Abd al-Rahman I.md",
+    "Cordoba.md",
+    "ancient-world-history.md",
     "School.md",
     "Heros-Journey.md",
+    "2024-11-09.md",
+    "Al-Andalus.md",
+    "Treaty of Verdun.md",
+    "Frankish Empire.md",
+    "Western Europe.md",
     "american-history.md",
     "chapter-28.md",
-    "2024-11-09.md",
     "chapter-28-db.md",
     "William Levitt.md",
     "servers-and-clients.md",

@@ -1,0 +1,1 @@
+Western Europe is the western region of Europe. The region's extent varies depending on context. The concept of "the West" appeared in Europe in juxtaposition to "the East" and originally applied to the ancient Mediterranean world, the Roman Empire, and medieval "Christendom".

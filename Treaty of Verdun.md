@@ -1,0 +1,1 @@
+divided the [[Frankish Empire]] into three kingdoms between Lothair I, Louis II and Charles II, the surviving sons of the emperor Louis I and the son and successor of Charlemagne
