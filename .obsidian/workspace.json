@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6881fb5ea23b97",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "bfafae01100b8f2a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "file": "some changes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "some changes"
             }
           }
         ]
@@ -100,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d6198dcb34570aa",
@@ -188,8 +167,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bfafae01100b8f2a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "some changes.md",
     "getaddrinfo.md",
     "addrinfo.md",
     "winsock-api.md",
@@ -215,7 +195,6 @@
     "New-Item.md",
     "Frankish Empire.md",
     "Cordoba.md",
-    "Al-Andalus.md",
     "Untitled"
   ]
 }
