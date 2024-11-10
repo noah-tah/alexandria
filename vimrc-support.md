@@ -1,0 +1,1 @@
+https://github.com/esm7/obsidian-vimrc-support

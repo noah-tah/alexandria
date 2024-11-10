@@ -19,7 +19,52 @@
               },
               "icon": "lucide-file",
               "title": "Heros-Journey"
-            }
+            },
+            "group": "991c2f89132d57ae"
+          }
+        ]
+      },
+      {
+        "id": "d5e6d3fd74f621b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfa4f643cbecbea3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Heros-Journey.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Heros-Journey"
+            },
+            "group": "991c2f89132d57ae"
           }
         ]
       }
@@ -77,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d6198dcb34570aa",
@@ -161,18 +207,29 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "School.md",
+    "Heros-Journey.md",
+    "tools.md",
+    "vimrc-support.md",
+    "plugins.md",
+    "powershell.md",
+    "New-Item.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Projects.md",
+    "winsock-server.md",
+    "powershell-setup.md",
     "chapter-13-worksheet.md",
     "wegild.md",
     "Abd al-Rahman I.md",
     "Cordoba.md",
     "ancient-world-history.md",
-    "School.md",
-    "Heros-Journey.md",
     "2024-11-09.md",
     "Al-Andalus.md",
     "Treaty of Verdun.md",
@@ -182,9 +239,6 @@
     "chapter-28.md",
     "chapter-28-db.md",
     "William Levitt.md",
-    "servers-and-clients.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "Untitled"
   ]
 }
