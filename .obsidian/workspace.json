@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects.md",
+                "file": "std thread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "std thread"
             },
             "group": "50223b23d3dd0ffa"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projects.md",
+                "file": "std thread.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Projects"
+              "title": "Graph of std thread"
             },
             "group": "50223b23d3dd0ffa"
           }
@@ -214,10 +214,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Projects.md",
+    "std thread.md",
     "Heroes-Journey.md",
     "writing.md",
     "obsidian git.md",
-    "Projects.md",
     "winsock-server.md",
     "first-attempt.md",
     "winsock-server-article.md",
@@ -239,7 +240,6 @@
     "powershell.md",
     "Western Europe.md",
     "Untitled.md",
-    "Untitled 1.md",
     "Untitled"
   ]
 }
