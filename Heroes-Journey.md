@@ -1,4 +1,4 @@
-# Yo 
+#  
 ---
 [[projects]]
 [[school]]
