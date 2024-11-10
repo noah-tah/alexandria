@@ -19,7 +19,52 @@
               },
               "icon": "lucide-file",
               "title": "winsock-server"
-            }
+            },
+            "group": "50223b23d3dd0ffa"
+          }
+        ]
+      },
+      {
+        "id": "62c152504cfc029d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab4c4b12e4cc1bf4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "winsock-server.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of winsock-server"
+            },
+            "group": "50223b23d3dd0ffa"
           }
         ]
       }
@@ -78,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d6198dcb34570aa",
@@ -168,11 +214,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "first-attempt.md",
-    "winsock-server.md",
-    "winsock-server-article.md",
     "Projects.md",
     "Heroes-Journey.md",
+    "winsock-server.md",
+    "first-attempt.md",
+    "winsock-server-article.md",
     "some changes.md",
     "getaddrinfo.md",
     "addrinfo.md",
