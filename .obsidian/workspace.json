@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "winsock-server.md",
+                "file": "obsidian git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "winsock-server"
+              "title": "obsidian git"
             },
             "group": "50223b23d3dd0ffa"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "winsock-server.md",
+                "file": "obsidian git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of winsock-server"
+              "title": "Graph of obsidian git"
             },
             "group": "50223b23d3dd0ffa"
           }
@@ -214,8 +214,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Projects.md",
+    "writing.md",
+    "obsidian git.md",
     "Heroes-Journey.md",
+    "Projects.md",
     "winsock-server.md",
     "first-attempt.md",
     "winsock-server-article.md",
@@ -238,8 +240,6 @@
     "Western Europe.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Treaty of Verdun.md",
-    "New-Item.md",
     "Untitled"
   ]
 }

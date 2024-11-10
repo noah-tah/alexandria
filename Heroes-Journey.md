@@ -5,6 +5,7 @@
 	- Jordan Peterson
 
 [[projects]]
+[[writing]]
 [[school]]
 [[plugins]]
 [[tools]]
