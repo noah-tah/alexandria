@@ -1,11 +1,3 @@
-[[winsock-api]]
-[[plan]]
-[[content-plan]]
-[[winsock-server-article]]
-[[servers-and-clients]]
-[[winsock-accept]]
-[[powershell-setup]]
-[[server-thread]]
-[[displaying-stuff-in-browser]]
-[[server-thread]]
-[[displaying-stuff-in-browser]]
+[[first-attempt]]
+
+
