@@ -31,5 +31,14 @@
       ],
       "key": "H"
     }
+  ],
+  "graph:open": [],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
   ]
 }
