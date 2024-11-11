@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "c95cd39b70e36a38",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "8dac044a7f68d151",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,8 +167,44 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "floating": {
+    "id": "1af6234345929359",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fd36ed7bfb95a160",
+        "type": "window",
+        "children": [
+          {
+            "id": "d1e0d77626f61fcb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e7a7b303c61786dc",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1311,
+        "y": 0,
+        "width": 609,
+        "height": 516,
+        "maximize": false,
+        "zoom": -1
+      }
+    ]
+  },
+  "active": "8dac044a7f68d151",
   "lastOpenFiles": [
+    "2024-11-10.md",
     "Heroes-Journey.md",
     "conflict-files-obsidian-git.md",
     "writing.md",
@@ -176,7 +212,6 @@
     "std thread.md",
     "obsidian git.md",
     "first-attempt.md",
-    "2024-11-10.md",
     "some changes.md",
     "getaddrinfo.md",
     "addrinfo.md",
