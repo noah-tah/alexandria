@@ -21,7 +21,8 @@
               "title": "2024-11-15"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -171,30 +172,30 @@
   "lastOpenFiles": [
     "2024-11-14.md",
     "2024-11-15.md",
-    "Heroes-Journey.md",
-    "conflict-files-obsidian-git.md",
     "Discussion board on Mongols.md",
+    "conflict-files-obsidian-git.md",
     "2024-11-11.md",
     "2024-11-10.md",
-    "writing.md",
-    "thread.md",
-    "std thread.md",
-    "obsidian git.md",
     "first-attempt.md",
+    "winsock-server.md",
+    "thread.md",
+    "Projects.md",
+    "std thread.md",
+    "Heroes-Journey.md",
+    "writing.md",
+    "obsidian git.md",
+    "winsock-server-article.md",
     "some changes.md",
     "getaddrinfo.md",
     "addrinfo.md",
     "winsock-api.md",
     "Creating a Socket.md",
-    "winsock-server.md",
     "plan.md",
     "diagram.md",
     "content-plan.md",
     "server-thread.md",
-    "Projects.md",
     "komorebi.md",
     "tools.md",
-    "AutoHotKey.md",
     "Untitled"
   ]
 }
