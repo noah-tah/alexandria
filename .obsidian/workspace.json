@@ -34,7 +34,11 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1
+=======
+        "stacked": true
+>>>>>>> origin/master
       }
     ],
     "direction": "vertical"
@@ -177,37 +181,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "homepage:Open homepage": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0ac2a6ac254aa1b4",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Heroes-Journey.md",
     "2024-11-14.md",
+=======
+>>>>>>> origin/master
     "Discussion board on Mongols.md",
     "conflict-files-obsidian-git.md",
+    "2024-11-14.md",
     "2024-11-11.md",
     "2024-11-10.md",
-    "writing.md",
-    "thread.md",
-    "std thread.md",
-    "obsidian git.md",
     "first-attempt.md",
+    "winsock-server.md",
+    "thread.md",
+    "Projects.md",
+    "std thread.md",
+    "Heroes-Journey.md",
+    "writing.md",
+    "obsidian git.md",
+    "winsock-server-article.md",
     "some changes.md",
     "getaddrinfo.md",
     "addrinfo.md",
     "winsock-api.md",
     "Creating a Socket.md",
-    "winsock-server.md",
     "plan.md",
     "diagram.md",
     "content-plan.md",
     "server-thread.md",
-    "Projects.md",
     "komorebi.md",
     "tools.md",
     "AutoHotKey.md",
-    "plugins.md",
     "Untitled"
   ]
 }
