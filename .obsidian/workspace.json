@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2024-11-15"
             }
+          },
+          {
+            "id": "12a74754fa194724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -168,12 +183,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "12a74754fa194724",
   "lastOpenFiles": [
-    "2024-11-14.md",
     "2024-11-15.md",
-    "Discussion board on Mongols.md",
     "conflict-files-obsidian-git.md",
+    "2024-11-14.md",
+    "Discussion board on Mongols.md",
     "2024-11-11.md",
     "2024-11-10.md",
     "first-attempt.md",
